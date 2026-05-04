@@ -1,0 +1,41 @@
+:root  > * {
+  --md-primary-fg-color:         #2B8A38;
+  --md-primary-fg-color--light:  #18541F;
+  --md-primary-fg-color--dark:   #18541F;
+  --md-accent-fg-color:          #2B8A38;
+  --md-footer-bg-color:          #2C2C2C;
+  --md-footer-bg-color--dark:    #2C2C2C;
+}
+
+.md-header {
+  background: #18541F;
+  color: #ffffff;
+}
+
+.md-search__button {
+  color: #ffffff;
+}
+
+.md-search__button::before {
+  color: #ffffff;
+  background: #ffffff;
+}
+
+.md-search__button::after {
+  color: #ffffff;
+  background: var(--md-footer-bg-color);
+}
+
+/* Heading overrides as the default ones are very small */
+.md-typeset {
+  h4 {
+    font-size: 0.95rem;
+  }
+  h5 {
+    font-size: 0.8rem;
+  }
+  h6 {
+    font-size: 0.7rem;
+  }
+}
+

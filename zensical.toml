@@ -1,0 +1,55 @@
+
+[project]
+site_name = "WikiOrlando"
+site_url = "https://wikiorlando.org"
+site_description = "Connecting new Orlando residents to the area with local resources, information, and tools"
+copyright = "&copy; 2026 WikiOrlando"
+docs_dir = "docs"
+site_dir = "site"
+extra_css = ["stylesheets/extra.css"]
+nav = [
+    { "Home" = "index.md" },
+    { "Resources" = [
+    	"resources/essentials.md"
+	]}
+]
+
+[project.theme]
+variant = "modern"
+logo = "assets/logo.svg"
+favicon = "assets/logo.svg"
+font.text = "Inter"
+font.code = "Hack"
+language = "en"
+features = [
+    "navigation.path",
+    "navigation.tabs",
+    "navigation.instant",
+    "navigation.instant.prefetch",
+    "navigation.sections",
+    "search.highlight"
+]
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme)"
+toggle.icon = "lucide/sun-moon"
+toggle.name = "Switch to light mode"
+primary = "custom"
+accent = "custom"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
+primary = "custom"
+accent = "custom"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to system preference"
+primary = "custom"
+accent = "custom"
+
