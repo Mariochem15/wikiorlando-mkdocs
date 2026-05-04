@@ -2,7 +2,7 @@ Life is an unpredictable journey filled with various challenges. If you're facin
 
 !!! warning "Important" 
 
-    - If you're having an Emergerency, please call **911**  
+    - If you're having an Emergency, please call **911**  
     - If you're experiencing emotional distress or mental health struggles, please call **988** for the Suicide & Crisis Lifeline
     - For City of Orlando resources and support, call **211**  
     - For Orange County support, call **311**  
