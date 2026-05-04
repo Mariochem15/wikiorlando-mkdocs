@@ -10,7 +10,7 @@ extra_css = ["stylesheets/extra.css"]
 nav = [
     { "Home" = "index.md" },
     { "Resources" = [
-    	"resources/essentials.md"
+    	"resources/emergency-essentials.md"
 	]},
     { "About" = "about.md" }
 ]
