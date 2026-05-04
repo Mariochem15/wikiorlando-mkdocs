@@ -11,7 +11,8 @@ nav = [
     { "Home" = "index.md" },
     { "Resources" = [
     	"resources/essentials.md"
-	]}
+	]},
+    { "About" = "about.md" }
 ]
 
 [project.theme]
