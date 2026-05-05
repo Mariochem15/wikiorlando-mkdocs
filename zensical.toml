@@ -10,7 +10,8 @@ extra_css = ["stylesheets/extra.css"]
 nav = [
     { "Home" = "index.md" },
     { "Resources" = [
-    	"resources/emergency-essentials.md"
+    	"resources/emergency-essentials.md",
+	"resources/healthcare.md"	
 	]},
     { "About" = "about.md" }
 ]
@@ -29,6 +30,12 @@ features = [
     "navigation.instant.prefetch",
     "navigation.sections",
     "search.highlight"
+]
+
+[project.extra]
+alternate = [
+    { name = "English", link = "/en/", lang = "en" },
+    { name = "Español", link = "/es/", lang = "es" }
 ]
 
 [[project.theme.palette]]

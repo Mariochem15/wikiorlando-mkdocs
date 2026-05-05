@@ -13,7 +13,7 @@ Life is an unpredictable journey filled with various challenges. If you're facin
 ## **Homeless Shelters**
 
 ### 1. Coalition For the Homeless
-> (Men, Women, and Children) Low barrier residential shelter with a focus on housing, emergency services, and diversion.
+- (Men, Women, and Children) Low barrier residential shelter with a focus on housing, emergency services, and diversion.
 
 ??? note "Contact Information"
 
@@ -30,7 +30,7 @@ Life is an unpredictable journey filled with various challenges. If you're facin
     Monday - Friday: 7:30 AM to 3:30 PM
 
 ### 2. Orlando Union Rescue Mission   
-> (Men, Women, and Children) **Family Home Location**: long-term housing and Christ-centered care for single women, single mothers with children, single fathers with children, and husbands/wives with children. **Project Hope Location**: emergency shelter and a long-term recovery programs for single men experiencing homelessness.
+- (Men, Women, and Children) **Family Home Location**: long-term housing and Christ-centered care for single women, single mothers with children, single fathers with children, and husbands/wives with children. **Project Hope Location**: emergency shelter and a long-term recovery programs for single men experiencing homelessness.
 
 ??? note "Contact Information"
 
@@ -64,7 +64,7 @@ Life is an unpredictable journey filled with various challenges. If you're facin
 
 
 ### 3. The Salvation Army  
-> (Men, Women, and Children) Shelter, food, clothing, and other resources. 
+- (Men, Women, and Children) Shelter, food, clothing, and other resources. 
 
 ??? note "Contact Information"
 
@@ -98,7 +98,7 @@ Life is an unpredictable journey filled with various challenges. If you're facin
 
 
 ### 4. Family Promise of Greater Orlando
-> Provides homeless families with shelter and resources in prevention.
+- Provides homeless families with shelter and resources in prevention.
 
 ??? note "Contact Information"
 
@@ -120,7 +120,7 @@ Life is an unpredictable journey filled with various challenges. If you're facin
 
 
 ### 5. Covenant House Florida
-> (Ages 18-24) Emergency shelter for youth experiencing homelessness or unstably housed. Drop-in internet and phone access, clothing, food and hygiene products.
+- (Ages 18-24) Emergency shelter for youth experiencing homelessness or unstably housed. Drop-in internet and phone access, clothing, food and hygiene products.
 
 ??? note "Contact Information"
 
@@ -138,7 +138,7 @@ Life is an unpredictable journey filled with various challenges. If you're facin
 
 
 ### 6. Orange County Youth Shelter
->(Ages 10-17) offers temporary housing, crisis counseling, individual and family counseling, and links to community resources for youth and their families.
+- (Ages 10-17) offers temporary housing, crisis counseling, individual and family counseling, and links to community resources for youth and their families.
 
 ??? note "Contact Information"
 
@@ -161,7 +161,7 @@ Life is an unpredictable journey filled with various challenges. If you're facin
 ## **Food Assistance** 
 
 ### 1. Christian HELP
->Food pantry - provides free groceries to individuals and families.
+- Food pantry - provides free groceries to individuals and families.
 
 ??? note "Contact Information"
 
@@ -181,7 +181,7 @@ Life is an unpredictable journey filled with various challenges. If you're facin
     Tuesday - Friday: 9:30 AM to 1:30 PM
 
 ### 2. Christian Service Center 
-> Free daily lunchtime meals, pantry food items, and clothing vouchers to individuals and families
+- Free daily lunchtime meals, pantry food items, and clothing vouchers to individuals and families
 
 ??? note "Contact Information"
 
@@ -218,7 +218,7 @@ Life is an unpredictable journey filled with various challenges. If you're facin
 ### 3. The Prince of Peace Lutheran Church Food Pantry
 <div class="annotate" markdown>
 
-> Monthly (1) food pantry that provides groceries to individuals and families
+- Monthly (1) food pantry that provides groceries to individuals and families
 
 </div>
 
@@ -243,7 +243,7 @@ Life is an unpredictable journey filled with various challenges. If you're facin
 
 
 ### 4. Second Harvest Food Bank
-> Food locator and other useful resources through their partners in Brevard, Lake, Marion, Orange, Osceola, Seminole, and Volusia counties.
+- Food locator and other useful resources through their partners in Brevard, Lake, Marion, Orange, Osceola, Seminole, and Volusia counties.
 
 ??? note "Contact Information"
 
@@ -265,7 +265,7 @@ Life is an unpredictable journey filled with various challenges. If you're facin
 ## **Financial Assistance**
 
 ### 1. Orange County Crisis Assistance Program
-> Provides one-time financial assistance for rent, mortgage, and/or utilities (electric, gas, or water only) for individuals and families with an unforeseen loss of income or increase in expense(s) that are recently past due on their housing or basic utilities and will be self-sufficient within the next month. 
+- Provides one-time financial assistance for rent, mortgage, and/or utilities (electric, gas, or water only) for individuals and families with an unforeseen loss of income or increase in expense(s) that are recently past due on their housing or basic utilities and will be self-sufficient within the next month. 
 
 ??? note "Contact Information"
 
@@ -278,7 +278,7 @@ Life is an unpredictable journey filled with various challenges. If you're facin
     Monday - Friday: 8:30 AM to 12:00 PM and 1:30 PM - 4:00 PM
 
 ### 2. St. Vincent de Paul Orlando
-> Assist those in financial  difficulties with rent, utilities, and housing deposits.
+- Assist those in financial  difficulties with rent, utilities, and housing deposits.
 
 ??? note "Contact Information"
 
@@ -296,7 +296,7 @@ Life is an unpredictable journey filled with various challenges. If you're facin
     Sunday: 12:00 PM - 7:00 PM
 
 ### 3. Low Income Home Energy Assistance Program (LIHEAP)
-> Program that helps income-qualified families with home heating and cooling costs.
+- Program that helps income-qualified families with home heating and cooling costs.
 
 ??? note "Contact Information"
 
