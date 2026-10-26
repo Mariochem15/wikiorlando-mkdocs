@@ -154,6 +154,23 @@ Life is an unpredictable journey filled with various challenges. If you're facin
     **Hours:**  
     24 hours a day, 7 days a week
 
+### 7. Zebra Youth 
+- (Ages 13-24) offers temporary housing, mental health services, and community programs
+
+??? note "Contact Information"
+
+    [**Website**](https://zebrayouth.org/)  
+
+    **Phone number:**  
+    407-228-1446
+
+    **Address:**  
+    911 North Mills Avenue   
+    Orlando, FL 32803
+
+    **Hours:**  
+    Monday - Friday: 10 AM to 6 PM
+
 
 --- 
 
@@ -258,6 +275,69 @@ Life is an unpredictable journey filled with various challenges. If you're facin
     **Address:**  
     411 Mercy Drive  
     Orlando, FL 32805
+
+
+### 5. Catholic Charities of Central Florida
+- (Appointment required) Food pantry for individuals and families 
+
+??? note "Contact Information"
+
+    [**Website**](https://cflcc.org/food-assistance/)  
+
+    **Phone number:**  
+    407-658-1818
+
+    **Address:**  
+    1819 N Semoran Blvd  
+    Orlando, FL 32807
+
+### 6. Jewish Family Services Center of Greater of Orlando
+- (Appointment required) Food pantry for individuals and families 
+
+??? note "Contact Information"
+
+    [**Website**](https://jfsorlando.org/services/pearlman-food-pantry/)  
+
+    **Phone number:**  
+    407-644-7593
+
+    **Address:**  
+    2100 Lee Road  
+    Winter Park, FL 32789
+
+### 7. Meals on Wheels
+- (Call to apply) Meals delivered to seniors, up to 5 days per week 
+
+??? note "Contact Information"
+
+    [**Website**](https://www.seniorsfirstinc.org/services/meals-on-wheels/)  
+
+    **Phone number:**  
+    407-292-0177
+
+    **Email:**  
+    info@seniorfirstinc.org
+
+    **Address:**  
+    5395 LB McLeod Road  
+    Orlando, FL 32811
+
+### 8. United Against Poverty
+- (Apply for membership) Grocery assistance program for individuals and families to select food and household items suited toward their needs
+
+??? note "Contact Information"
+
+    [**Website**](https://uporlando.org/member-share-grocery-program/)  
+
+    **Phone number:**  
+    407-650-0774
+
+    **Address:**  
+    150 W Michigan St  
+    Orlando, FL 32806
+
+    **Hours:**  
+    Monday - Saturday: 9 AM to 6 PM and Sunday: 11 AM to 6 PM
 
 
 --- 
